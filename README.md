@@ -216,6 +216,6 @@ _[Sesuaikan bagian ini dengan penggunaan AI yang sebenarnya.]_
 
 ## Penulis
 
-- **Nama:** [Nama Lengkap]
-- **NIM:** [NIM]
-- **Kelas:** [Kelas]
+- **Nama:** Ariel Sharon Ferdinandus
+- **NIM:** 24130500007
+- **Kelas:** Pred2
